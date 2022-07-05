@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <meta charset="utf-8">
+    <title>CSS: The element selector</title>
+    <style>
+        body {
+            background-image:url(https://en.wikipedia.org/wiki/Persian_art#/media/File:17-9_3-1964-Saltingtaeppe_Photo-Pernille-Klemp-f_(cropped.jpg)
+        }
+      {
+        background-img:url()
+  
+        h1 {
+            color: white;
+        }
+        
+        p {
+            color: grey; font
+        }
+      title {
+        color:grey;
+      }
+      #art-in-iran
+      {
+        background-color:purple;
+      }
+        
+    </style>
+</head>
+  <body>
+    <strong> <h1>Historical ART of IRAN</h1></strong>
+</body>
+</html>
+<img src="https://cdn.pixabay.com/photo/2020/04/14/22/50/naghsh-e-rostam-5044583_960_720.jpg" width="1000">
+
+    <title>HTML: </title>
+    </head>
+    <body>
+
+    <h1 id="art-in-iran">ART IN IRAN</h1>
+      
+    <p>
+      <strong> Persian art</strong> or Iranian art (Persian: , romanized: Honar-è Irâni) has one of the richest art heritages in world history and has been strong in many media including architecture, painting, weaving, pottery, calligraphy, metalworking and sculpture. At different times, influences from the art of neighbouring civilizations have been very important, and latterly Persian art gave and received major influences as part of the wider styles of Islamic art.<em> This article covers the art of Persia up to 1925, and the end of the Qajar dynasty; for later art see Iranian modern and contemporary art, and for traditional crafts see arts of Iran. Rock art in Iran is its most ancient surviving art</em>. Iranian architecture is covered at that article.
+
+From the Achaemenid Empire of 550 BC–330 BC for most of the time a large Iranian-speaking state has ruled over areas similar to the modern boundaries of Iran, and often much wider areas, sometimes called Greater Iran, where a process of cultural Persianization left enduring results even when rulership separated. The courts of successive dynasties have generally led the style of Persian art, and court-sponsored art has left many of the most impressive survivals.
+
+In ancient times the surviving monuments of Persian art are notable for a tradition concentrating on the human figure (mostly male, and often royal) and animals. Persian art continued to place larger emphasis on figures than Islamic art from other areas, though for religious reasons now generally avoiding large examples, especially in sculpture. The general Islamic style of dense decoration, geometrically laid out, developed in Persia into a supremely elegant and harmonious style combining motifs derived from plants with Chinese motifs such as the cloud-band, and often animals that are represented at a much smaller scale than the plant elements surrounding them. Under the Safavid dynasty in the 16th century this style was used across a wide variety of media, and diffused from the court artists of the shah, most being mainly painters. </p>
+<a target="_blank"
+   hrf='https://en.wikipedia.org/wiki/Persian_art'>read more... </a>
