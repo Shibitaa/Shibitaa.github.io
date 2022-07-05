@@ -1,34 +1,48 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html>
   <head>
      <meta charset="utf-8">
-    <title>CSS: The element selector</title>
+    <title>CSS: Selecting by id</title>
     <style>
-        body {
-            background-image:url(https://en.wikipedia.org/wiki/Persian_art#/media/File:17-9_3-1964-Saltingtaeppe_Photo-Pernille-Klemp-f_(cropped.jpg)
-        }
-      {
-        background-img:url()
-  
-        h1 {
-            color: white;
-        }
-        
-        p {
-            color: grey; font
-        }
-      title {
-        color:grey;
+      
+      h2{
+        color:red; }
+      
+      p {color:black;
+        font-size:1.5em;
+     }
+      #A-para{
+        background-color:silver;
+    font-size:1.5em;
+      width:300;
+    
       }
-      #art-in-iran
-      {
-        background-color:purple;
+      h2{
+        color:black}
+      
+        p{
+          background-color:silver;
+      font-size:1.5em;
+      line-height:1.5em;
+          text-align:center;
+      
       }
+     
+      h1
+      
+      {
+        background-color:silver;
+        font-size:1.5em;
+        text-lign:right;
+      }
+      
+      }
+      
         
     </style>
 </head>
   <body>
-    <strong> <h1>Historical ART of IRAN</h1></strong>
+    <strong> <h1 id="ART1">Historical ART of IRAN</h1></strong>
 </body>
 </html>
 <img src="https://cdn.pixabay.com/photo/2020/04/14/22/50/naghsh-e-rostam-5044583_960_720.jpg" width="1000">
@@ -39,7 +53,7 @@
 
     <h1 id="art-in-iran">ART IN IRAN</h1>
       
-    <p>
+    <p id="A-para">
       <strong> Persian art</strong> or Iranian art (Persian: , romanized: Honar-è Irâni) has one of the richest art heritages in world history and has been strong in many media including architecture, painting, weaving, pottery, calligraphy, metalworking and sculpture. At different times, influences from the art of neighbouring civilizations have been very important, and latterly Persian art gave and received major influences as part of the wider styles of Islamic art.<em> This article covers the art of Persia up to 1925, and the end of the Qajar dynasty; for later art see Iranian modern and contemporary art, and for traditional crafts see arts of Iran. Rock art in Iran is its most ancient surviving art</em>. Iranian architecture is covered at that article.
 
 From the Achaemenid Empire of 550 BC–330 BC for most of the time a large Iranian-speaking state has ruled over areas similar to the modern boundaries of Iran, and often much wider areas, sometimes called Greater Iran, where a process of cultural Persianization left enduring results even when rulership separated. The courts of successive dynasties have generally led the style of Persian art, and court-sponsored art has left many of the most impressive survivals.
@@ -47,3 +61,38 @@ From the Achaemenid Empire of 550 BC–330 BC for most of the time a large Irani
 In ancient times the surviving monuments of Persian art are notable for a tradition concentrating on the human figure (mostly male, and often royal) and animals. Persian art continued to place larger emphasis on figures than Islamic art from other areas, though for religious reasons now generally avoiding large examples, especially in sculpture. The general Islamic style of dense decoration, geometrically laid out, developed in Persia into a supremely elegant and harmonious style combining motifs derived from plants with Chinese motifs such as the cloud-band, and often animals that are represented at a much smaller scale than the plant elements surrounding them. Under the Safavid dynasty in the 16th century this style was used across a wide variety of media, and diffused from the court artists of the shah, most being mainly painters. </p>
 <a target="_blank"
    hrf='https://en.wikipedia.org/wiki/Persian_art'>read more... </a>
+      <h1>Carpets</h1>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Ghyas_el_Din_Jami_-_Tabriz_%28%3F%29_-_Google_Art_Project.jpg" width="1300" height="500">  
+      
+      <p id="B-para">
+          <strong> Carpet weaving is an essential part of Persian culture and art.</strong> Within the group of Oriental rugs produced by the countries of the so-called "rug belt", the Persian carpet stands out by the variety and elaborateness of its designs.[68]
+
+Persian carpets and rugs of various types were woven in parallel by nomadic tribes, in village and town workshops, and by royal court manufactories alike. As such, they represent different, simultaneous lines of tradition, and reflect the history of Iran and its various peoples. The carpets woven in the Safavid court manufactories of Isfahan during the sixteenth century are famous for their elaborate colours and artistical design, and are treasured in museums and private collections all over the world today. Their patterns and designs have set an artistic tradition for court manufactories which was kept alive during the entire duration of the Persian Empire up to the last royal dynasty of Iran. Exceptional individual Safavid carpets include the Ardabil Carpet (now in London and Los Angeles) and the Coronation Carpet (now in Copenhagen). Much earlier, the Baharestan Carpet is a lost Sasanian carpet for the royal palace at Ctesiphon, and the oldest significant carpet, the Pazyryk Carpet was possibly made in Persia.[68]
+
+Carpets woven in towns and regional centres like Tabriz, Kerman, Mashhad, Kashan, Isfahan, Nain and Qom are characterized by their specific weaving techniques and use of high-quality materials, colours and patterns. Town manufactories like those of Tabriz have played an important historical role in reviving the tradition of carpet weaving after periods of decline. Rugs woven by the villages and various tribes of Iran are distinguished by their fine wool, bright and elaborate colours, and specific, traditional patterns. Nomadic and small village weavers often produce rugs with bolder and sometimes more coarse designs, which are considered as the most authentic and traditional rugs of Persia, as opposed to the artistic, pre-planned designs of the larger workplaces. Gabbeh rugs are the best-known type of carpet from this line of tradition.
+      read moe...</p></h1>
+
+<h1>Rock reliefs</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_20-24_PAN.jpg" width="1300" height="500">
+<p>The large carved rock relief, typically placed high beside a road, and near a source of water, is a common medium in Persian art, mostly used to glorify the king and proclaim Persian control over territory.[19] It begins with Lullubi and Elamite rock reliefs, such as those at Sarpol-e Zahab (circa 2000 BC), Kul-e Farah and Eshkaft-e Salman in southwest Iran, and continues under the Assyrians. The Behistun relief and inscription, made around 500 BC for Darius the Great, is on a far grander scale, reflecting and proclaiming the power of the Achaemenid empire.[20] Persian rulers commonly boasted of their power and achievements, until the Muslim conquest removed imagery from such monuments; much later there was a small revival under the Qajar dynasty.[21]
+
+Behistun is unusual in having a large and important inscription, which like the Egyptian Rosetta Stone repeats its text in three different languages, here all using cuneiform script: Old Persian, Elamite, and Babylonian (a later form of Akkadian).[22] This was important in the modern understanding of these languages. Other Persian reliefs generally lack inscriptions, and the kings involved often can only be tentatively identified. The problem is helped in the case of the Sasanians by their custom of showing a different style of crown for each king, which can be identified from their coins.[21]
+
+Naqsh-e Rustam is the necropolis of the Achaemenid dynasty (500–330 BC), with four large tombs cut high into the cliff face. These have mainly architectural decoration, but the facades include large panels over the doorways, each very similar in content, with figures of the king being invested by a god, above a zone with rows of smaller figures bearing tribute, with soldiers and officials. The three classes of figures are sharply differentiated in size. The entrance to each tomb is at the centre of each cross, which opens onto a small chamber, where the king lay in a sarcophagus.[23] The horizontal beam of each of the tomb's facades is believed to be a replica of the entrance of the palace at Persepolis.
+
+Only one has inscriptions and the matching of the other kings to tombs is somewhat speculative; the relief figures are not intended as individualized portraits. The third from the left, identified by an inscription, is the tomb of Darius I the Great (c. 522–486 BC). The other three are believed to be those of Xerxes I (c. 486–465 BC), Artaxerxes I (c. 465–424 BC), and Darius II (c. 423–404 BC) respectively. A fifth unfinished one might be that of Artaxerxes III, who reigned at the longest two years, but is more likely that of Darius III (c. 336–330 BC), last of the Achaemenid dynasts. The tombs were looted following the conquest of the Achaemenid Empire by Alexander the Great. [23]
+
+Well below the Achaemenid tombs, near ground level, are rock reliefs with large figures of Sassanian kings, some meeting gods, others in combat. The most famous shows the Sassanian king Shapur I on horseback, with the Roman Emperor Valerian bowing to him in submission, and Philip the Arab (an earlier emperor who paid Shapur tribute) holding Shapur's horse, while the dead Emperor Gordian III, killed in battle, lies beneath it (other identifications have been suggested). This commemorates the Battle of Edessa in 260 AD, when Valerian became the only Roman Emperor who was captured as a prisoner of war, a lasting humiliation for the Romans. The placing of these reliefs clearly suggests the Sasanian intention to link themselves with the glories of the earlier Achaemenid Empire.[24] There are three further Achaemenid royal tombs with similar reliefs at Persepolis, one unfinished.read more...</p>
+
+
+<h1>Persian miniature</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Mir_Sayyid_Ali_2.jpg" width="550" height="800"
+     
+ <h2><p>
+<strong>Persian miniature</strong> is a small Persian painting on paper, whether a book illustration or a separate work of art intended to be kept in an album of such works called a muraqqa. The techniques are broadly comparable to the Western Medieval and Byzantine traditions of miniatures in illuminated manuscripts. Although there is an equally well-established Persian tradition of wall-painting, the survival rate and state of preservation of miniatures is better, and miniatures are much the best-known form of Persian painting in the West, and many of the most important examples are in Western, or Turkish, museums. Miniature painting became a significant genre in Persian art in the 13th century, receiving Chinese influence after the Mongol conquests, and the highest point in the tradition was reached in the 15th and 16th centuries. The tradition continued, under some Western influence, after this, and has many modern exponents. The Persian miniature was the dominant influence on other Islamic miniature traditions, principally the Ottoman miniature in Turkey, and the Mughal miniature in the Indian sub-continent.
+
+<strong>Persian art under Islam had never completely forbidden the human figure, and in the miniature tradition the depiction of figures, often in large numbers, is central.</strong> This was partly because the miniature is a private form, kept in a book or album and only shown to those the owner chooses. It was therefore possible to be more free than in wall paintings or other works seen by a wider audience. The Quran and other purely religious works are not known to have been illustrated in this way, though histories and other works of literature may include religiously related scenes, including those depicting the Islamic prophet Muhammad, after 1500 usually without showing his face.[1]
+
+As well as the figurative scenes in miniatures, which this article concentrates on, there was a parallel style of non-figurative ornamental decoration which was found in borders and panels in miniature pages, and spaces at the start or end of a work or section, and often in whole pages acting as frontispieces. In Islamic art this is referred to as "illumination", and manuscripts of the Quran and other religious books often included considerable number of illuminated pages.[2] The designs reflected contemporary work in other media, in later periods being especially close to book-covers and Persian carpets, and it is thought that many carpet designs were created by court artists and sent to the workshops in the provinces.[3]
+
+In later periods miniatures were increasingly created as single works to be included in albums called muraqqa, rather than illustrated books. This allowed non-royal collectors to afford a representative sample of works from different styles and periods.</h2> </p>
